@@ -8,7 +8,9 @@ This is a web page created using HTML that displays the exam routine for Grade 1
 - Exam dates and times
 - Contact information
 
-##Click on this link to open webpage of readme
+##Click on this link to open webpage of readme.
+
+
 Link: https://iamfung.github.io/ROUTINE_NDC/
 
 ## Created by
