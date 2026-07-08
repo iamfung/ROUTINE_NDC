@@ -11,7 +11,7 @@ This is a web page created using HTML that displays the exam routine for Grade 1
 ##Live website 
 
 
-Link: https://iamfung.github.io/ROUTINE_NDC/
+Link: https:https://iamfung.github.io/ROUTINE_NDC/
 
 
 ##Original routine i referenced is in Original folder.
